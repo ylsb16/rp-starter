@@ -1,1 +1,3 @@
-// Enter your code here
+function square(x) {
+  return x * x;
+}
